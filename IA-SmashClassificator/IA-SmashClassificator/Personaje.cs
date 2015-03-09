@@ -11,19 +11,19 @@ namespace IA_SmashClassificator
         public string Nombre {get; set;}
         public TipoArma Arma { get; set; }
         public TipoPoder Poder {get;set;}
-        public decimal Altura { get; set; }
+        public decimal Salto { get; set; }
         public decimal Peso { get; set; }
 
         public Personaje()
         {
 
         }
-        public Personaje(string nombre, TipoArma arma, TipoPoder poder, decimal altura, decimal peso)
+        public Personaje(string nombre, TipoArma arma, TipoPoder poder, decimal salto, decimal peso)
         {
             Nombre = nombre;
             Arma = arma;
             Poder = poder;
-            Altura = altura;
+            Salto = salto;
             Peso = peso;
         }
     }

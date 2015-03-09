@@ -5,3 +5,9 @@ C:\Users\Vizardespa\Documents\GitHub\IA-SmashClassificator\IA-SmashClassificator
 C:\Users\Vizardespa\Documents\GitHub\IA-SmashClassificator\IA-SmashClassificator\IA-SmashClassificator\bin\Debug\IA-SmashClassificator.pdb
 C:\Users\Vizardespa\Documents\GitHub\IA-SmashClassificator\IA-SmashClassificator\IA-SmashClassificator\obj\Debug\IA-SmashClassificator.exe
 C:\Users\Vizardespa\Documents\GitHub\IA-SmashClassificator\IA-SmashClassificator\IA-SmashClassificator\obj\Debug\IA-SmashClassificator.pdb
+C:\Users\Oscar\Documents\GitHub\IA-SmashClassificator\IA-SmashClassificator\IA-SmashClassificator\bin\Debug\IA-SmashClassificator.exe.config
+C:\Users\Oscar\Documents\GitHub\IA-SmashClassificator\IA-SmashClassificator\IA-SmashClassificator\obj\Debug\IA-SmashClassificator.exe
+C:\Users\Oscar\Documents\GitHub\IA-SmashClassificator\IA-SmashClassificator\IA-SmashClassificator\obj\Debug\IA-SmashClassificator.pdb
+C:\Users\Oscar\Documents\GitHub\IA-SmashClassificator\IA-SmashClassificator\IA-SmashClassificator\bin\Debug\IA-SmashClassificator.exe
+C:\Users\Oscar\Documents\GitHub\IA-SmashClassificator\IA-SmashClassificator\IA-SmashClassificator\bin\Debug\IA-SmashClassificator.pdb
+C:\Users\Oscar\Documents\GitHub\IA-SmashClassificator\IA-SmashClassificator\IA-SmashClassificator\obj\Debug\IA-SmashClassificator.csprojResolveAssemblyReference.cache
